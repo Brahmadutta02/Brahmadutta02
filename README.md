@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brahmadutta Dalai
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning about Web Developer with Almabetter.
 - 💞️ I’m looking to collaborate on Web Deverloper in various fields.
 - 📫 How to reach me: brahmaduttadalai012@gmail.com, twitter@brehms02
