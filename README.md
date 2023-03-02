@@ -25,10 +25,13 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 ## Github Stats
-
-  ![Brahmadutta Dalai Github Stats]("https://github-readme-stats.vercel.app/api?username=Brahmadutta02&show_icons=true&theme=tokyonight")
+  
+  ## Github Stats
+<a href="https://github.com/venugopalkadamba">
+  <img align="center" alt="Brahmadutta Dalai Github Stats" src="https://github-readme-stats.vercel.app/api?Brahmadutta02= &theme=radical">
 </a>
 </div>
+
 
 <div align="center">
 
