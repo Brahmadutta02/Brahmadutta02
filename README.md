@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ## Github Stats
   
   ## Github Stats
-<a href="https://github.com/venugopalkadamba">
+<a href="https://github.com/Brahmadutta02">
   <img align="center" alt="Brahmadutta Dalai Github Stats" src="https://github-readme-stats.vercel.app/api?Brahmadutta02= &theme=radical">
 </a>
 </div>
