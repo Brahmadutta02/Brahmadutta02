@@ -1,115 +1,33 @@
+<h1 align="center">Hi 👋, I'm Brahmadutta</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!---
-Brahmadutta02/Brahmadutta02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmadutta02&label=Profile%20views&color=0e75b6&style=flat" alt="brahmadutta02" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahmadutta02" alt="brahmadutta02" /></a> </p>
 
-## Hi there, I am Brahmadutta Dalai!<img height="60" width="60" src="./assets/hi.gif" />
-<i>I am a self taught <b>Web Developer</b>.</i>
-<i>
-  
-<img align="right" height="250" width="350" src="./assets/typing_man.gif" />
-<br>
-<ul>
-        <li>🧑🏻‍💻 Web Developer, Currently i am learning Dart & Flutter</li>
-        <li>💼 Open for Freelance work in Web Developer field.</li>
-        <li>🤔 Areas of Intrest: Web Devloper, UI/UX Design, Dart & FLutter.</li>
-        <li>💬 Ask me about anything.</li>
-        <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/brahmadutta-dalai/">LinkedIn</a>.</li>
-        <li>⚡ Fun fact: I am fitness freak.</li>
-      </ul>
-</i>
-<br/>
+<p align="left"> <a href="https://twitter.com/brehms02" target="blank"><img src="https://img.shields.io/twitter/follow/brehms02?logo=twitter&style=for-the-badge" alt="brehms02" /></a> </p>
 
-<div align="center">
+- 🌱 I’m currently learning **Web Development, Dart, Flutter**
 
-## Github Stats
-  
- 
-[![](https://raw.githubusercontent.com/Brahmadutta02/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Brahmadutta02/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Brahmadutta02/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- 👨‍💻 All of my projects are available at [https://github.com/Brahmadutta02/100th_Day_Coding_Challenge](https://github.com/Brahmadutta02/100th_Day_Coding_Challenge)
 
+- 💬 Ask me about **HTML, CSS and JavaScript, React, Bootstrap**
 
+- 📫 How to reach me **dalaibrahmadutta@gmail.com**
 
-<div align="center">
+- ⚡ Fun fact **I am fitness freak.**
 
-## Top Languages
-<a href="https://github.com/Brahmadutta02">
-  <img align="center" src="">
-</a>
- </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/brahmadutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/brahmadutta" height="30" width="40" /></a>
+<a href="https://twitter.com/brehms02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brehms02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brahmadutta-dalai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brahmadutta-dalai/" height="30" width="40" /></a>
+<a href="https://instagram.com/brehms_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brehms_02" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<!--
-<div align="center">
-  
-/* ## My Repositories at Glance
-<table>
-  <tr>
-    <th>Machine Learning</th>
-    <th>Computer Vision</th>
-  </tr>
-  <tr>
-    <td> 
-      <ul>
-        <li><a target="_blank" href = "https://github.com/venugopalkadamba/AgriAI_WebApp"><i>AgriAI WebApp</i></a></li>
-        <li><a target="_blank" href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor"><i>Multi Disease Predictor</i></a></li> 
-        <li><a target="_blank" href = "https://github.com/venugopalkadamba/Image-Blur-Detection"><i>Image Blur Detection using Machine Learning</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App"><i>Diabetes Predictor</i></a></li>
-      </ul> 
-    </td>
-    <td>
-      <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system"><i>Face Verification based Attendance System</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Emotion_Recognition"><i>Face Emotion Recogniton</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>American Sign Language Detection</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login"><i>Social Media WebApp with Face Verification Login</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Mask_Detector"><i>Face Mask Detector</i></a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th>NLP</th>
-    <th>Internships</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Movie-Recommendation-System-ML-React-Flask"><i>Movie Recommendation System</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project"><i>Text Summarizer using Text Rank Algorithm</i></a> </li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp"><i>SMS Spam Detection</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Fake_News_Detector"><i>Fake News Detector</i></a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>Data Science Internship at Technocolabs</i></a> </li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Data Science and Analytics Internship at The Sparks Foundation</i></a></li>
-      </ul>
-    </td>
-  <tr>
-</table>
-</div>
-*/
---!>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brahmadutta02&show_icons=true&locale=en&layout=compact" alt="brahmadutta02" /></p>
 
-
-
-
-<div align="center">
-
-## Follow Me At
-<a href="https://www.linkedin.com/in/brahmadutta-dalai/"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="
-https://instagram.com/brehms_02?igshid=NmQ2ZmYxZjA=
-"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/brehms02"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-</div>
-
-<div align="center">
-  
-<b>❤️ Thank you for visiting my Github Profile ❤️</b>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brahmadutta02&show_icons=true&locale=en" alt="brahmadutta02" /></p>
