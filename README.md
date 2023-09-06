@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/brahmadutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brahmadutta" height="30" width="40" /></a>
 <a href="https://twitter.com/brehms02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brehms02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brahmadutta dalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahmadutta dalai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brahmadutta-dalai-349b8728a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahmadutta dalai" height="30" width="40" /></a>
 <a href="https://instagram.com/brehms_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brehms_02" height="30" width="40" /></a>
 </p>
 
