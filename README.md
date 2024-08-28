@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/brehms02" target="blank"><img src="https://img.shields.io/twitter/follow/brehms02?logo=twitter&style=for-the-badge" alt="brehms02" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, Dart, Flutter**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brahmadutta02/100th_Day_Coding_Challenge](https://github.com/Brahmadutta02/100th_Day_Coding_Challenge)
 
