@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brahmadutta</h1>
+<h1 align="center">Hi 👋, I'm Brahmadutta Dalai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmadutta02&label=Profile%20views&color=0e75b6&style=flat" alt="brahmadutta02" /> </p>
