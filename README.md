@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brahmadutta02/100th_Day_Coding_Challenge](https://github.com/Brahmadutta02/100th_Day_Coding_Challenge)
 
-- 💬 Ask me about **HTML, CSS and JavaScript, React, Bootstrap**
+- 💬 Ask me about **HTML, CSS and JavaScript, React, Node, Next, Flask, AWS**
 
 - 📫 How to reach me **dalaibrahmadutta@gmail.com**
 
