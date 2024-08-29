@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brahmadutta Dalai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmadutta02&label=Profile%20views&color=0e75b6&style=flat" alt="brahmadutta02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmadutta02label=Profile%20viewscolor=0e75b6style=flat" alt="brahmadutta02" /> </p>
 
 <p align="left"> <a href="https://github.com/brahmadutta02/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahmadutta02" alt="brahmadutta02" /></a> </p>
 
