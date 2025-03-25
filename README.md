@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I am fitness freak.**
 
+- You can also reach me through this link **https://brahmadutta-dalai.netlify.app/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/brahmadutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brahmadutta" height="30" width="40" /></a>
